@@ -1,0 +1,107 @@
+
+body {
+   color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #F0F0F0;
+}
+
+.topheader {
+ padding: 6em 0;
+   background-image: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11540845_10206265351259892_3102877644642610127_n.jpg?oh=0e64f9f30d8d3ce6d89f14443b0a1714&oe=57FB6E81);
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-position: center center;  
+}
+
+.topheader-intro {
+  text-align: center;
+   color: white;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: ;
+  font-weight: italics;
+}
+
+.topheader-name {
+    text-align: center;
+margin-bottom: 14.1em;
+ color: purple;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: ;
+  font-weight: bold;
+}
+
+.introduction,
+.from,
+.about {
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:2em;
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
+
+.introduction-intro,
+.from-intro,
+.about-intro {
+  color: navy;
+}
+
+.introduction-body,
+.from-body,
+.about-body {
+  color: #CC6600;
+}
+
+
+.questions{
+  color: navy;
+  font-size: 1.2em;
+  font-weight: bold
+}
+
+.answers{
+  color: #CC6600;
+  font-weight: bold;
+  
+}
+
+.footer {
+  text-align: center;
+  font-family: "Gentium Book Basic", Georgia, serif;
+  margin-top: 5em;
+	padding: 4em 0;
+  color: white;
+	background-color: #000066;
+  font-weight: 300;
+  letter-spacing: 0.05em;
+}
+
+.social > li {
+  text-aling: center;
+  display: inline-block;
+}
+
+//Bonues
+
+a {
+	/* Typography Declrations */
+	font-weight: bold;
+	text-decoration: none;
+	color: #FFCF33;
+}
+
+a:hover {
+	/* Tyopography Declarations */
+	color: #FFE799;
+}
+
+a:visited {
+	/* Typography Declarations */
+	color: #D1A000;
+}
+
+
