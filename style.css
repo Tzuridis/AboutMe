@@ -1,3 +1,13 @@
+@media only screen and (max-width: 500px) {
+    .topheader {
+        font-size: 3em 0;
+      }
+      .topheader-intro {
+       padding: 6em 0; 
+      }
+    }
+    
+
 
 body {
    color: #222222;
@@ -9,7 +19,7 @@ body {
 .topheader {
  padding: 6em 0;
    background-image: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11540845_10206265351259892_3102877644642610127_n.jpg?oh=0e64f9f30d8d3ce6d89f14443b0a1714&oe=57FB6E81);
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-size: cover;
   background-size: 100%;
   background-position: center center;  
