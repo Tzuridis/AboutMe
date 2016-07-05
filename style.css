@@ -1,9 +1,6 @@
 @media only screen and (max-width: 500px) {
-    .topheader {
-        font-size: 3em 0;
-      }
-      .topheader-intro {
-       padding: 6em 0; 
+      .topheader {
+        padding: 2em 0;
       }
     }
     
@@ -17,7 +14,7 @@ body {
 }
 
 .topheader {
- padding: 6em 0;
+ padding: 16em 0;
    background-image: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11540845_10206265351259892_3102877644642610127_n.jpg?oh=0e64f9f30d8d3ce6d89f14443b0a1714&oe=57FB6E81);
   background-repeat: no-repeat;
   background-size: cover;
@@ -34,9 +31,8 @@ body {
 }
 
 .topheader-name {
-    text-align: center;
-margin-bottom: 14.1em;
- color: purple;
+  text-align: center;
+ color: #00FFFF;
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
   font-size: ;
   font-weight: bold;
@@ -48,7 +44,7 @@ margin-bottom: 14.1em;
   max-width: 38em;
   margin-left: auto;
   margin-right: auto;
-  margin-top:2em;
+  margin-top: 2em;
   font-family: "Gentium Book Basic", Georgia, serif;
   font-weight: bold;
   letter-spacing: 0.05em;
@@ -91,7 +87,7 @@ margin-bottom: 14.1em;
 }
 
 .social > li {
-  text-aling: center;
+  text-align: center;
   display: inline-block;
 }
 
